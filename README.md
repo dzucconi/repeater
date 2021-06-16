@@ -1,5 +1,7 @@
 # Repeater
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4a673deb-51ec-42e1-b9aa-e627a506aea0/deploy-status)](https://app.netlify.com/sites/damonzucconi-repeater/deploys)
+
 ## Meta
 
 - **State**: production
